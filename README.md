@@ -9,19 +9,19 @@ git clone https://github.com/shareefshaji/Python3.8.6.git
 
 (ENTER)
 
-$cd Python3.8.6
+cd Python3.8.6
 
 (ENTER)
 
-$ls
+ls
 
 (ENTER)
 
-$apt install ./python_3.8.6_aarch64.deb
+apt install ./python_3.8.6_aarch64.deb
 
 (ENTER)
 
-$apt install ./python-static_3.8.6_aarch64.deb
+apt install ./python-static_3.8.6_aarch64.deb
 
 (ENTER)
 
